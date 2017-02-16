@@ -1,5 +1,34 @@
+body {
+  background-image: url("img/beeer.jpg");
+}
+
+h1 {
+  font-family: 'Leckerli One', cursive;
+  font-size: 55px;
+  color: gold;
+}
+
+h2 {
+  font-family: 'Leckerli One', cursive;
+  color: gold;
+}
+
+h3 {
+  font-family: 'Leckerli One', cursive;
+  color: gold;
+}
+
 form {
   margin-top: 30px;
+}
+
+.form-control {
+  background-color : lightgrey;
+}
+
+li {
+  background-color: lightgrey;
+  color: black;
 }
 
 .user-post, .user-review {
